@@ -115,4 +115,4 @@ UE5_PCGEnvironment/
 
 ## 라이선스
 
-MIT License
+All Rights Reserved
